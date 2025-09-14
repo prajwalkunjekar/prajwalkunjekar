@@ -9,20 +9,13 @@
   <a href="https://www.hackerrank.com/profile/prajwalkunjekar1" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="hackerrank logo"  />
   </a>
-  <a href="mailto:prajwalkunjekar1@gmail.com" target="_blank">
+  <a href="prajwalkunjekar1@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
 
 ###
 
-<div align="center">
-  <img src="https://github.com/prajwalkunjekar/prajwalkunjekar/blob/output/snake.svg" alt="Snake animation" />
-</div>
-
-###
-
-### 🛠️ Languages, Tools & Platforms
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
   <img width="12" />
@@ -60,3 +53,5 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
 </div>
+
+###
