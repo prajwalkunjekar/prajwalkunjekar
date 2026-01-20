@@ -1,42 +1,76 @@
-
-
-<div align="center" style="font-family: monospace;">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=700&size=25&pause=1000&color=F2F2F2&background=000000&center=true&vCenter=true&width=600&lines=Hello+friend.;Hello+friend%3F+That's+lame.;Maybe+I+should+give+you+a+name...;But+that's+a+slippery+slope.;You're+only+in+my+head.;We+have+to+remember+that.;Initializing+Prajwal_Protocol_v9.0..." alt="Typing SVG" />
-  </a>
+<div align="center">
+  <table border="0" cellpadding="0" cellspacing="0" style="border: 2px solid #FF0000; border-radius: 10px; background-color: #000;">
+    <tr>
+      <td style="padding: 20px;">
+        <a href="https://git.io/typing-svg">
+          <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&weight=700&size=24&pause=1000&color=FF0000&background=000000&center=true&vCenter=true&width=600&lines=Prajwal.;Hello+friend.;Control+is+an+illusion.;Are+you+a+one+or+a+zero%3F;Society+is+a+vulnerability.;Encryption+is+just+a+delay.;Root+access+granted...+0x7FFD22;They+hide+behind+firewalls+of+lies.;01010011+01001111+01010011;Prajwal_Protocol%3A+Breach+Confirmed." alt="Typing SVG" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 <br />
 
 <div align="center">
-<table style="border: 1px solid #333; background-color: #000; width: 100%; text-align: left;">
-<tr>
-<td style="padding: 15px; font-family: 'Courier New', Courier, monospace; color: #ccc;">
+  <div style="width: 100%; max-width: 720px; font-family: 'Courier New', Courier, monospace; box-shadow: 0 0 30px rgba(0, 255, 65, 0.25); border-radius: 10px; overflow: hidden;">
+    
+   <div style="background-color: #020b02; border-bottom: 2px solid #00FF41; padding: 12px 15px; text-align: left; display: flex; align-items: center; justify-content: space-between;">
+      <div>
+        <span style="color: #4CAF50; font-size: 20px; line-height: 0;">●</span>&nbsp;
+        <span style="color: #8BC34A; font-size: 20px; line-height: 0;">●</span>&nbsp;
+        <span style="color: #CDDC39; font-size: 20px; line-height: 0;">●</span>
+    
 
-<p><span style="color: #ff0000;">root@elliot-server:~#</span> ./start_profile.sh</p>
+  <div style="background-color: #000000; padding: 25px; text-align: left; color: #81C784;">
+      
+ 
 
-<p style="color: #fff;">
-[+] TARGET: <span style="color: #ff0000;">Global Infrastructure</span><br>
-[+] USER: <span style="color: #ff0000;">Prajwal Kunjekar</span><br>
-[+] CERTIFICATION: <span style="color: #fff; background-color: #ff0000; padding: 0 4px;">CEH (VERIFIED)</span>
-</p>
+   <p style="margin: 0 0 15px 0; font-size: 14px;">
+        <span style="color: #00FF41; font-weight: bold;">root@prajwal-bio-unit:~#</span> ./initialize_profile.sh --verbose
+      </p>
+    <div style="margin: 0; font-size: 12px; color: #008F11;">
+        <p style="margin: 2px 0;">[INIT] Starting bio-synthesis sequences... <span style="color: #00FF41;">[OK]</span></p>
+        <p style="margin: 2px 0;">[MEM] Allocating organic memory 0x8BBBAA... <span style="color: #00FF41;">[GROWN]</span></p>
+        <p style="margin: 2px 0;">[NET] Bypassing inorganic firewalls... <span style="color: #00FF41;">[BYPASSED]</span></p>
+      </div>
+      
+   <p style="color: #00FF41; font-weight: bold; margin: 10px 0 25px 0; text-shadow: 0 0 5px #00FF41;">
+        [||||||||||||||||||||||||||||||||||||||||] 100% GROWTH
+      </p>
 
-<p>
-<span style="color: #555;">> Mounting file system...</span> <span style="color: #00ff00;">[OK]</span><br>
-<span style="color: #555;">> Bypassing firewalls...</span> <span style="color: #00ff00;">[OK]</span><br>
-<span style="color: #555;">> Injecting code...</span> <span style="color: #00ff00;">[OK]</span>
-</p>
+ <table style="width: 100%; border-left: 3px solid #00FF41; padding-left: 20px; margin-bottom: 25px;">
+     <tr>
+          <td style="color: #00FF41; font-weight: bold; width: 150px; letter-spacing: 1px;">ECOSYSTEM:</td>
+          <td style="color: #fff;">Global Digital Infrastructure</td>
+        </tr>
+        <tr>
+          <td style="color: #00FF41; font-weight: bold; letter-spacing: 1px;">PRIMARY_NODE:</td>
+          <td style="color: #fff;">Prajwal Kunjekar <span style="font-size: 10px; color: #008F11;">(BIO-ID: 0x41)</span></td>
+        </tr>
+        <tr>
+          <td style="color: #00FF41; font-weight: bold; letter-spacing: 1px;">CERTIFICATION:</td>
+          <td>
+            <span style="background-color: #00FF41; color: #000; font-weight: bold; padding: 3px 8px; font-size: 11px; border-radius: 4px;">CEH (VERIFIED)</span>
+            <span style="border: 1px solid #00FF41; color: #00FF41; padding: 2px 6px; font-size: 11px; margin-left: 8px; border-radius: 4px;">APEX_PREDATOR</span>
+          </td>
+        </tr>
+      </table>
 
-<p style="border-top: 1px dashed #333; padding-top: 10px;">
-<span style="color: #ff0000;">root@elliot-server:~#</span> cat /etc/mission_statement.txt
-</p>
-<blockquote style="border-left: 2px solid #ff0000; color: #fff; margin-left: 10px; padding-left: 10px;">
-"Control is an illusion. I secure networks by breaking them first. <br>
-Ethical Hacking, Penetration Testing, and Vulnerability Assessment are my weapons."
-</blockquote>
+  <p style="color: #00FF41; margin-bottom: 5px; font-size: 12px;">root@prajwal-bio-unit:~# cat /usr/mind/philosophy.txt</p>
+      <div style="background-color: #020f02; padding: 15px; border: 1px dashed #00FF41; color: #81C784; font-style: italic; border-radius: 5px;">
+        <span style="color: #00FF41; font-size: 20px;">"</span>Control is an illusion. Like nature, I adapt and overcome secured networks.
+        <br><br>
+        <span style="color: #fff;">> Ethical Hacking // Penetration Testing // Vulnerability Assessment</span>
+        <br><br>
+        We are the evolution the system didn't plan for.<span style="color: #00FF41; font-size: 20px;">"</span>
+      </div>
+      
+<p style="margin-top: 20px; color: #fff; font-size: 14px;">
+        <span style="color: #00FF41; font-weight: bold;">root@prajwal-bio-unit:~#</span> <span style="color: #00FF41; animation: blink 1s steps(1) infinite;">█</span>
+      </p>
 
-</td>
-</tr>
-</table>
+  </div>
+  </div>
 </div>
 
 <br />
@@ -83,9 +117,18 @@ Ethical Hacking, Penetration Testing, and Vulnerability Assessment are my weapon
 <br />
 
 <div align="center">
-  <p style="font-family: monospace; font-size: 10px; color: #555;">
-    DO NOT SHUT DOWN. SYSTEM UPDATING... <br>
-    1% ... 99% ... ERROR.
-  </p>
+  <p style="background-color: #000; color: #00FF41; font-family: 'Courier New', monospace; font-size: 12px; padding: 10px; border-left: 3px solid #00FF41; text-shadow: 0 0 5px #00FF41; line-height: 1.4;"> [RUNNING]: /usr/bin/system_update --force
+
+
+[INFO]: Establishing secure tunnel to 127.0.0.1... DONE
+
+
+[INFO]: Downloading packets [####################] 100%
+
+
+[WARNING]: Integrity check failed at block 0x88AF
+
+
+[ERROR]: KERNEL_PANIC: STACK_OVERFLOW_DETECTED  <br /> <br />
   <img src="https://komarev.com/ghpvc/?username=prajwalkunjekar&label=FSOCIETY_MEMBERS&color=red&style=flat-square" alt="counter" />
 </div>
